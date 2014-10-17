@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gax:home|Door43 (gax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gax|d43-gax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gax/archive/master.zip|d43-gax.zip]]
+
+**Recent Changes**
+{{changes>ns = gax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gax|Ethnologue data]]
+
