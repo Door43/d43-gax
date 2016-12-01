@@ -1,31 +1,24 @@
-//Translation for the unfoldingWord mobile app interface // 
 
 
-Select a language: Select a Language
+**Jechoota Moobayilatti Fayyadamisaaf Qargaaranu**
 
+Afaan fil
 
-Chapters: Chapters
+Foorota
 
+Afaanota
 
-Languages: Languages
+Foora itti aanu
 
+Haata’u
 
-Next chapter: Next Chapter
+Balleessi
 
+Massi
 
-OK: OK
+Tora interneetaatin alatti fayyadamiisaaf afaan kana massi
 
+Adde’ee kaasi
 
-Cancel: Cancel
+Afaan kana addee tora interneetaatin alatti maffamee kaasi; yennaa dhibii deebitee fayyadamisaaf tora interneetaatin wolqunnamisiisuu qadda.
 
-
-Save locally: Save Locally
-
-
-Save this string: Save this language locally for offline use.
-
-
-Remove locally: Remove Locally
-
-
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
